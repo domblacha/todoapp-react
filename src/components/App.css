@@ -1,0 +1,20 @@
+.App {
+  min-height: 100vh;
+  background-image: -moz-linear-gradient(
+    90deg,
+    rgb(59, 202, 255) 0%,
+    rgb(38, 255, 171) 100%
+  );
+  background-image: -webkit-linear-gradient(
+    90deg,
+    rgb(59, 202, 255) 0%,
+    rgb(38, 255, 171) 100%
+  );
+}
+.logo {
+  padding-left: 2%;
+  padding-top: 1%;
+  font-family: "Dancing Script", cursive;
+  font-size: 3.6rem;
+  color: #fff;
+}
